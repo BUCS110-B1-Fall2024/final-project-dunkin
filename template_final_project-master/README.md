@@ -1,18 +1,18 @@
 
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
-# << Project Title >>
-## CS110 B1 Final Project  << Semester, Year >>
+# Catch the Thief
+## CS110 B1 Final Project  Fall, 2024
 
 ## Team Members
 
-<< List team member names >>
+Jeannie Lee
 
 ***
 
 ## Project Description
 
-<< Give an overview of your project >>
+This is a simple action game where the player must chase and catch a thief. The player controls their character using arrow keys to move, while the thief moves randomly and quickly across the screen. The difficulty increases as the thief’s speed escalates over time. The player wins by catching the thief within the time limit; otherwise, it’s game over.
 
 ***    
 
@@ -30,11 +30,11 @@
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. Start Screen: A screen with the game title and a start button.
+2. Character Movement: The player can move the character using arrow keys.
+3. Thief’s Random Movement: The thief moves randomly across the screen, increasing in speed over time.
+4. Collision Detection: The game detects when the player catches the thief, resulting in a win.
+5. Game Over Screen: A message is displayed if the player fails to catch the thief within the time limit.
 
 ### Classes
 
