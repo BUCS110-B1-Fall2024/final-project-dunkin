@@ -12,7 +12,10 @@ Jeannie Lee
 
 ## Project Description
 
-This is a simple action game where the player must chase and catch a thief. The player controls their character using arrow keys to move, while the thief moves randomly and quickly across the screen. The difficulty increases as the thief’s speed escalates over time. The player wins by catching the thief within the time limit; otherwise, it’s game over.
+This is a simple action game where the player must chase and catch a thief.
+The player controls their character using arrow keys to move, while the thief moves randomly and quickly
+across the screen. The difficulty increases as the thief’s speed escalates over time.
+The player wins by catching the thief within the time limit; otherwise, it’s game over.
 
 ***    
 
@@ -20,7 +23,7 @@ This is a simple action game where the player must chase and catch a thief. The 
 
 ### Initial Design
 
-![initial gui](assets/gui.jpg)
+![initial gui](template_final_project-master/assets/gui.jpg)
 
 ### Final Design
 
