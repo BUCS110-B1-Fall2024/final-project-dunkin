@@ -1,7 +1,7 @@
 
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
-# Catch the Thief
+# Traffic Controller
 ## CS110 B1 Final Project  Fall, 2024
 
 ## Team Members
@@ -12,10 +12,7 @@ Jeannie Lee
 
 ## Project Description
 
-This is a simple action game where the player must chase and catch a thief.
-The player controls their character using arrow keys to move, while the thief moves randomly and quickly
-across the screen. The difficulty increases as the thief’s speed escalates over time.
-The player wins by catching the thief within the time limit; otherwise, it’s game over.
+This is a traffic light management game. The player controls traffic lights at a busy intersection. The goal is to prevent collisions and ensure a smooth flow of traffic while keeping pedestrians safe. The game becomes more challenging as vehicle and pedestrian traffic increases over time.
 
 ***    
 
@@ -23,7 +20,9 @@ The player wins by catching the thief within the time limit; otherwise, it’s g
 
 ### Initial Design
 
+
 ![initial gui](template_final_project-master/assets/gui.jpg)
+
 
 ### Final Design
 
@@ -33,11 +32,12 @@ The player wins by catching the thief within the time limit; otherwise, it’s g
 
 ### Features
 
-1. Start Screen: A screen with the game title and a start button.
-2. Character Movement: The player can move the character using arrow keys.
-3. Thief’s Random Movement: The thief moves randomly across the screen, increasing in speed over time.
-4. Collision Detection: The game detects when the player catches the thief, resulting in a win.
-5. Game Over Screen: A message is displayed if the player fails to catch the thief within the time limit.
+1. Traffic Light Control: The player changes traffic light colors to manage vehicle and pedestrian flow.
+2. Collision Detection: The game detects vehicle collisions or pedestrian accidents.
+3. Level Progression: Traffic increases in speed and volume as levels progress.
+4. Timer System: Players have limited time to complete each level.
+5. Score Tracking: Points are awarded for safely managing traffic and deducted for collisions.
+
 
 ### Classes
 
